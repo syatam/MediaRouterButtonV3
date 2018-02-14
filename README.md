@@ -1,7 +1,5 @@
 # MediaRouterButton Example using Android Cast SDK V3
 
-This sample app shows the issue while using MediaRouterButton using the layout
-
 Issue:
 Android cast button is not visible when cast button added as MediaRouteButton
 
